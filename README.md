@@ -7,7 +7,8 @@ This group is focused on media, content-curation and events. Coordinating materi
 - The group meets on the second Tuesday every month at 15:30 - 16:30 UTC (24:00 Format) 
 - We track our active tickets with our [Github Projects Kanban Backlog](../../projects/1?add_cards_query=is%3Aopen)
 - We organize our backlog with intent using github [Milestones](../../milestones) which makes it easier to track progress based on desired outcomes and objectives.
-- We discuss our efforts using [github discussions](../../discussions)
+- We discuss our efforts using [github discussions](../../discussions). This is where we have all of our major discussions, and it is the preferred method of communicating ideas and asking questions. 
+- We also have a [# OMI-Media discord channel](https://discord.gg/FkkjWGW7Nw), for general chatter, but not ideal for planning. 
 - Any questions? Contact the designated working group lead(s) Shirley (LMB | LittleMissBold on Discord / @pcsmgnt on Github) or Evo (@evo on Discord and @lightlodges on github) or Jesse (mrmetaverse#0001 on discord / @mrmetaverse on github). 
 
 Our Commitments: 
@@ -28,5 +29,5 @@ Our Commitments:
 - Reddit
 
 Upcoming efforts: 
-- content sprint #3
-- NEED ANALYTICS DASHBOARD #4
+- content sprint 1 - see issue #3
+- NEED ANALYTICS DASHBOARD - see issue #6
