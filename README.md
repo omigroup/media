@@ -28,5 +28,5 @@ Our Commitments:
 - Reddit
 
 Upcoming efforts: 
-- content sprint\
-- (NEED ANALYTICS DASHBOARD -> create ticket) 
+- content sprint #3
+- NEED ANALYTICS DASHBOARD #4
