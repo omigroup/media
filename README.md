@@ -1,4 +1,4 @@
-# Working Group Name
+# Media and Content Strategy Working group
 
 ## About: 
 This group is focused on media, content-curation and events. Coordinating material, curation, and timing of our content. We explore things like using our blog to republish content from our community, and collaboratively champion an Open Metaverse. 
